@@ -23,4 +23,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=vvdam&stroke=0f172a&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=0f172a&currStreakLabel=6366f1&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
-<div class="tenor-gif-embed" data-postid="1122348612755965714" data-share-method="host" data-aspect-ratio="1.46667" data-width="100%"><a href="https://tenor.com/view/whattt-gif-1122348612755965714">Whattt Sticker</a>from <a href="https://tenor.com/search/whattt-stickers">Whattt Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+[]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://tenor.com/view/whattt-gif-1122348612755965714)https://tenor.com/view/whattt-gif-1122348612755965714)
