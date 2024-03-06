@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam Maaloul
 ====================================================================================================================================
 
-🌱 I’m currently learning web devloppement
+🌱 I’m currently learning web devloppement ![](https://tenor.com/view/whattt-gif-1122348612755965714)
 ------------------------------------------
 
 👀 I’m interested in Art, History, Video Games, Drawing, Fashion, and Design. I also enjoy exploring award-winning websites on platforms like Awwwards (www.awwwards.com) to stay inspired and discover creative online experiences.
+
+
 
 *   ✉️  You can contact me at [maaalouladam@gmail.com]
 *   🧠  I'm learning react.js
@@ -23,4 +25,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=vvdam&stroke=0f172a&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=0f172a&currStreakLabel=6366f1&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
-[]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://tenor.com/view/whattt-gif-1122348612755965714)https://tenor.com/view/whattt-gif-1122348612755965714)
+
