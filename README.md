@@ -4,7 +4,8 @@ name is Adam Maaloul a passionate Web developer from France
 ====================================================================================================================================
 🌱 I’m currently learning web devloppement
 ![](https://tenor.com/view/whattt-gif-1122348612755965714)
------------------------------------------- 👀 I’m interested in Art, History,
+------------------------------------------
+👀 I’m interested in Art, History,
 Video Games, Drawing, Fashion, and Design. I also enjoy exploring award-winning
 websites on platforms like Awwwards (www.awwwards.com) to stay inspired and
 discover creative online experiences. * ✉️  You can contact me at
