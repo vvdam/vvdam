@@ -42,14 +42,7 @@ discover creative online experiences.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
-      alt="angularjs"
-      width="50"
-      height="50"
-    />
-  </a>
+ 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img
       src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
@@ -60,7 +53,7 @@ discover creative online experiences.
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg"
       alt="bootstrap"
       width="50"
       height="50"
@@ -76,7 +69,7 @@ discover creative online experiences.
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
       alt="express"
       width="50"
       height="50"
@@ -148,20 +141,13 @@ discover creative online experiences.
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg"
       alt="photoshop"
       width="50"
       height="50"
     />
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="50"
-      height="50"
-    />
-  </a>
+  
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
